@@ -1,7 +1,7 @@
 ---
 title: 思い出
 subtitle: 人生楽しんだ
-image: /img/home-jumbotron.jpg
+image: img/スクリーンショット-2023-02-19-134500.png
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
