@@ -1,7 +1,7 @@
 ---
-title: 思い出
-subtitle: 人生楽しんだ
-image: img/スクリーンショット-2023-02-19-134500.png
+title: "Sustainable "
+subtitle: " It should do good too"
+image: img/about-single-origin.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
